@@ -5,7 +5,10 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Tripsathi Travels",
-  description: "Plan your next tour with us for hassle-free trips to your dream destination.",
+  description: "Plan your next tour with us...",
+  icons: {
+    icon: "/favicon.ico",  // or "/favicon.png"
+  },
 };
 
 export default function RootLayout({
