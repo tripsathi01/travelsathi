@@ -143,7 +143,7 @@ export default function ContactFooter() {
               </p>
               <div className="flex items-center gap-3">
                 <a
-                  href="https://www.instagram.com/tripsathi_travels/"
+                  href="https://www.instagram.com/_tripsathi.travels_/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Connect on Instagram"
